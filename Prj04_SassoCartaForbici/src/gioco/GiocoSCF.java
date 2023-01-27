@@ -28,9 +28,9 @@ public class GiocoSCF {
 
 		System.out.println("Scegli la modalità di gioco. Premi:");
 
-		System.out.println("1 - Singolo	(Player VS PC)");
-		System.out.println("2 - Sfida (Player VS PLAYER)");
-		System.out.println("3 - Simulazione	(PC VS PC)");
+		System.out.println("1 - Singolo (Player VS PC)");
+		System.out.println("2 - Sfida (Player VS Player)");
+		System.out.println("3 - Simulazione (PC VS PC)");
 		//System.out.println("4 - Menu Principale");
 		System.out.println("0 - Abbandona il gioco");
 
@@ -44,11 +44,11 @@ public class GiocoSCF {
 			break;
 
 		case 2:
-			System.out.println("Hai scelto la modalità Sfida	(Player VS PLAYER) ");
+			System.out.println("Hai scelto la modalità Sfida (Player VS PLAYER) ");
 			break;
 
 		case 3:
-			System.out.println("Hai scelto la modalità Simulazione	(Per PC VS PC)");
+			System.out.println("Hai scelto la modalità Simulazione (PC VS PC)");
 			break;
 
 		case 4:
